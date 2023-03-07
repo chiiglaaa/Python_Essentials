@@ -33,3 +33,4 @@ print(bool1)
 print(bool2)
 
 #Try running this code to see what is does.
+#Also try to mess with the code so you can explore what will happen if you change something. its a good practise <3
