@@ -1,3 +1,4 @@
+#we'll cover the 'input()' functions in next lessons.
 x = int(input("Enter First Number: "))
 y = int(input("Enter Second Number: "))
 print()  # This will print an empty line.
