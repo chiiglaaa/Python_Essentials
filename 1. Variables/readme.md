@@ -65,7 +65,7 @@ so we have to write like this:
 
     x=5
 or
-    x = 5
+     x = 5
 
 If we print x. output will be 5.
 
