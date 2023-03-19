@@ -15,6 +15,6 @@ If you are new to Python programming, this repository is a great place to start!
 
 To get started, simply clone this repository to your local machine:
 
-           git clone https://github.com/your-username/Python_Essentials.git
+           git clone https://github.com/chiiglaaa/Python_Essentials.git
 
 Then, navigate to the directory that you are interested in, and start exploring the code!
